@@ -1,0 +1,5 @@
+{
+    "ldapURL" : "ldap://domain.info",
+    "ldapBaseDN" : "DC=domain, DC=info"
+
+}
